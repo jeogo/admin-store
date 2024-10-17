@@ -3,7 +3,7 @@
 import axios from "axios";
 import { User, Product, Category } from "./types";
 
-const API_URL = "https://store-bot.zeabur.app/api"; // Base API URL
+const API_URL = "https://store-bot-qpoo.onrender.com/api"; // Base API URL
 
 // ----------------- USERS CRUD -----------------
 
